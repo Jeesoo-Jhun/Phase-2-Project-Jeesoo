@@ -1,0 +1,4 @@
+# Ignore large database files
+zippedData/im.db
+zippedData/*.zip
+*.log

@@ -144,7 +144,7 @@ Prioritize movies with runtimes of 100 to 115 minutes to maximize audience engag
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](https://github.com/Jeesoo-Jhun/Phase-2-Project-Jeesoo/blob/main/notebooks/(final)%20clean%20notebook.ipynb) or review this [presentation](https://github.com/Jeesoo-Jhun/Phase-2-Project-Jeesoo/blob/main/presentation/presenatation.pdf)
+See the full analysis in the [Jupyter Notebook](https://github.com/Jeesoo-Jhun/Phase-2-Project-Jeesoo/blob/main/notebooks/(final)%20student.ipynb) or review this [presentation](https://github.com/Jeesoo-Jhun/Phase-2-Project-Jeesoo/blob/main/presentation/presenatation.pdf)
 
 [Tableau Dashboard link ](https://public.tableau.com/views/JSPhase2Project_1/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 

@@ -46,14 +46,14 @@ The primary stakeholder is the new movie studio, aiming to create original movie
 
 ### Description of Data
 
-1. 'movie_title': The title of the movie.
-2. 'production_budget': The production budget.
-3. 'Worldwide_gross $': Total revenue worldwide.
-4. 'Domestic_gross $': Total revenue in domestic markets.
-5. 'runtime_minutes': Movie duration.
-6. 'genres': Movie genres.
-7. 'average_rating': IMDb average rating.
-8. 'number_of_votes': Number of votes/reviews on IMDb.
+1. **'movie_title'**: The title of the movie.
+2. **'production_budget'**: The production budget.
+3. **'Worldwide_gross $'**: Total revenue worldwide.
+4. **'Domestic_gross $'**: Total revenue in domestic markets.
+5. **'runtime_minutes'**: Movie duration.
+6. **'genres'**: Movie genres.
+7. **'average_rating'**: IMDb average rating.
+8. **'number_of_votes'**: Number of votes/reviews on IMDb.
 
 ### Data Cleaning and Transformation 
 
@@ -144,7 +144,7 @@ Prioritize movies with runtimes of 100 to 115 minutes to maximize audience engag
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](https://github.com/) or review this [presentation](https://github.com/)
+See the full analysis in the [Jupyter Notebook](https://github.com/Jeesoo-Jhun/Phase-2-Project-Jeesoo/blob/main/notebooks/(final)%20clean%20notebook.ipynb) or review this [presentation](https://github.com/Jeesoo-Jhun/Phase-2-Project-Jeesoo/blob/main/presentation/presenatation.pdf)
 
 [Tableau Dashboard link ](https://public.tableau.com/views/JSPhase2Project_1/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
